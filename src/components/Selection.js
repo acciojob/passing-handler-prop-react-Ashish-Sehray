@@ -8,7 +8,7 @@ function Selection({ applyColor }) {
   }
     return (
     <>
-      <div id="#master">
+      <div id="master">
       
         <div
           className="fix-box subheading"
