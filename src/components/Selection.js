@@ -1,4 +1,4 @@
-import '../styles/child.css';
+import '../styles/Child.css';
 import { useState } from "react";
 
 function Selection({ applyColor }) {
